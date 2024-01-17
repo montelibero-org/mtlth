@@ -1,0 +1,18 @@
+# Montelibero Stellar Anchor <https://montelibero.org>
+# https://github.com/stellar/stellar-protocol/tree/master/ecosystem
+VERSION="2.5.0"
+
+ACCOUNTS=[
+"GAEAAQ6GYMF6SSAWSW3MSLWB5LHYQIEGF3I3TUBJM6L3MSZYSPOMTLTH"
+]
+
+[DOCUMENTATION]
+ORG_NAME="Montelibero"
+ORG_DBA="Montelibero"
+ORG_URL="https://montelibero.org"
+ORG_LOGO="https://montelibero.org/images/logo.png"
+ORG_DESCRIPTION="MTLTH is a decentralized autonomous organization (DAO) for tokenized assets in Thailand, empowering financial freedom and investment opportunities"
+ORG_GITHUB="montelibero-org"
+ORG_PHYSICAL_ADDRESS = "Thailand"
+ORG_OFFICIAL_EMAIL="montelibero.fspe@gmail.com"
+ORG_SUPPORT_EMAIL="montelibero.fspe@gmail.com"
