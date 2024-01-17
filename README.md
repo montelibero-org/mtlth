@@ -1,8 +1,10 @@
-<h1 align="center">MTLTH Fund</h1>
+<h1 align="center">MTL Thailand Assets (MTLTH)</h1>
 
 MTLTH is a decentralized autonomous organization (DAO) for tokenized assets in Thailand, empowering financial freedom and investment opportunities.
 
 Live: https://mtlth.montelibero.org
+
+Telegram: https://t.me/MTL_TH
 
 The repository is a part of the [Montelibero Organization](https://github.com/montelibero-org). This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
