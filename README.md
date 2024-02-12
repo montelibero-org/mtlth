@@ -4,9 +4,11 @@ MTLTH is a decentralized autonomous organization (DAO) for tokenized assets in T
 
 Live: [mtlth.montelibero.org](https://mtlth.montelibero.org)
 
-Telegram: [@MTL_TH](https://t.me/MTL_TH)
+Site: [mtlth.notion.site](https://mtlth.notion.site/mtlth/MTL-Thailand-Assets-MTLTH-c5a3273ead4e4b48a4b06d8041e5f2b6)
 
 Stellar: [GAEAAQ6GYMF6SSAWSW3MSLWB5LHYQIEGF3I3TUBJM6L3MSZYSPOMTLTH](https://stellar.expert/explorer/public/account/GAEAAQ6GYMF6SSAWSW3MSLWB5LHYQIEGF3I3TUBJM6L3MSZYSPOMTLTH)
+
+Telegram: [@MTL_TH](https://t.me/MTL_TH)
 
 The repository is a part of the [Montelibero Organization](https://github.com/montelibero-org). This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
 

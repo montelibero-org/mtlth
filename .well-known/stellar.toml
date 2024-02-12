@@ -1,5 +1,6 @@
-# Montelibero Stellar Anchor <https://montelibero.org>
+# MTLTH Stellar Anchor <https://mtlth.montelibero.org>
 # https://github.com/stellar/stellar-protocol/tree/master/ecosystem
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 VERSION="2.5.0"
 
 ACCOUNTS=[
@@ -7,12 +8,27 @@ ACCOUNTS=[
 ]
 
 [DOCUMENTATION]
-ORG_NAME="Montelibero"
-ORG_DBA="Montelibero"
-ORG_URL="https://montelibero.org"
+ORG_NAME="MTL Thailand Assets (MTLTH)"
+ORG_DBA="MTL Thailand Assets (MTLTH)"
+ORG_URL="https://mtlth.montelibero.org"
 ORG_LOGO="https://montelibero.org/images/logo.png"
 ORG_DESCRIPTION="MTLTH is a decentralized autonomous organization (DAO) for tokenized assets in Thailand, empowering financial freedom and investment opportunities"
 ORG_GITHUB="montelibero-org"
 ORG_PHYSICAL_ADDRESS = "Thailand"
 ORG_OFFICIAL_EMAIL="thailand@montelibero.org"
 ORG_SUPPORT_EMAIL="thailand@montelibero.org"
+
+[[CURRENCIES]]
+code="RE101G1"
+issuer="GAEAAQ6GYMF6SSAWSW3MSLWB5LHYQIEGF3I3TUBJM6L3MSZYSPOMTLTH"
+status="live"
+display_decimals=7
+is_asset_anchored=true
+anchor_asset_type="realestate"
+anchor_asset="Unit 91 in Building 2 of SDG SunnyMoon Phuket Rawai"
+is_unlimited=true
+name="RE101G1"
+desc="This asset represents the ownership of Unit 91 in Building 2 of SDG SunnyMoon Phuket Rawai (G1), a luxurious 1-bedroom apartment, measuring 74.7 square meters, fully furnished. Expect income from sale or rental, commissioning is scheduled for October 2025."
+image="https://mtlth.montelibero.org/images/building-small-logo.png"
+
+
