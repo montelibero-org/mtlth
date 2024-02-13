@@ -12,7 +12,7 @@ ORG_NAME="MTL Thailand Assets (MTLTH)"
 ORG_DBA="MTL Thailand Assets (MTLTH)"
 ORG_URL="https://mtlth.montelibero.org"
 ORG_LOGO="https://montelibero.org/images/logo.png"
-ORG_DESCRIPTION="MTLTH is a decentralized autonomous organization (DAO) for tokenized assets in Thailand, empowering financial freedom and investment opportunities"
+ORG_DESCRIPTION="MTLTH is a decentralized autonomous organization (DAO) for tokenized assets in Thailand, empowering financial freedom and investment opportunities. The top 20 shareholders automatically become members of the Fund's Board of Directors, participating in the formulation and adoption of all decisions."
 ORG_GITHUB="montelibero-org"
 ORG_PHYSICAL_ADDRESS = "Thailand"
 ORG_OFFICIAL_EMAIL="thailand@montelibero.org"
@@ -30,5 +30,3 @@ is_unlimited=true
 name="RE101G1"
 desc="This asset represents the ownership of Unit 91 in Building 2 of SDG SunnyMoon Phuket Rawai (G1), a luxurious 1-bedroom apartment, measuring 74.7 square meters, fully furnished. Expect income from sale or rental, commissioning is scheduled for October 2025."
 image="https://mtlth.montelibero.org/images/building-small-logo.png"
-
-
