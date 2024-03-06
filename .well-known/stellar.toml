@@ -25,8 +25,21 @@ status="live"
 display_decimals=7
 is_asset_anchored=true
 anchor_asset_type="realestate"
-anchor_asset="Unit 91 in Building 2 of SDG SunnyMoon (G1) in Rawai, Phuket, Thailand"
+anchor_asset="[PRESALE] Unit 91 in Building 2 of SDG SunnyMoon (G1) located in Rawai, Phuket, Thailand"
 is_unlimited=true
 name="RE101G1"
-desc="This asset represents the ownership of Unit 91 in Building 2 of SDG SunnyMoon (G1) in Rawai, Phuket, Thailand. It is a luxurious 1-bedroom apartment with a total area of 74.7 square meters. Expect income from sale or rental, commissioning is scheduled for October 2025."
+desc="[PRESALE] This asset represents the ownership of Unit 91 in Building 2 of SDG SunnyMoon (G1) located in Rawai, Phuket, Thailand. It is a luxurious 1-bedroom apartment with a total area of 74.7 square meters. Expect income from sale or rental, commissioning is scheduled for October 2025."
 image="https://mtlth.montelibero.org/images/building-small-logo.png"
+
+[[CURRENCIES]]
+code="AVG1"
+issuer="GAEAAQ6GYMF6SSAWSW3MSLWB5LHYQIEGF3I3TUBJM6L3MSZYSPOMTLTH"
+status="live"
+display_decimals=7
+is_asset_anchored=true
+anchor_asset_type="other"
+anchor_asset="[PRESALE] Automobile Group (G1), currently consisting of 3 automobile located in Phuket, Thailand"
+is_unlimited=true
+name="AVG1"
+desc="[PRESALE] This asset represents the ownership of Automobile Group (G1), currently consisting of 3 automobile located in Phuket, Thailand. The group is utilized for rental services, offering potential rental income. Expansion plans include growing the group to 600 automobiles."
+image="https://mtlth.montelibero.org/images/car-small-logo.png"
