@@ -11,35 +11,20 @@ ACCOUNTS=[
 ORG_NAME="MTL Thailand Assets (MTLTH)"
 ORG_DBA="MTL Thailand Assets (MTLTH)"
 ORG_URL="https://mtlth.montelibero.org"
-ORG_LOGO="https://montelibero.org/images/logo.png"
-ORG_DESCRIPTION="MTLTH is a decentralized autonomous organization (DAO) for tokenized assets in Thailand, empowering financial freedom and investment opportunities, operating in accordance with the principles and values of a free society. The top 20 shareholders are members of the Fund's Board of Directors, participating in the formulation and adoption of all decisions."
+ORG_LOGO="https://mtlth.montelibero.org/stellar-images/mtlth-logo.png"
+ORG_DESCRIPTION="MTLTH is a decentralized autonomous organization (DAO) for tokenized assets in Thailand, empowering financial freedom and investment opportunities, operating in accordance with the principles and values of a free society. The top 20 shareholders are members of the Fund's Board of Directors, participating in the formulation and adoption of all decisions. The Fund is a corporate member and verifier of MTLA and provides an identity verification process for MTLA members."
 ORG_GITHUB="montelibero-org"
 ORG_PHYSICAL_ADDRESS = "Thailand"
 ORG_OFFICIAL_EMAIL="thailand@montelibero.org"
 ORG_SUPPORT_EMAIL="thailand@montelibero.org"
 
 [[CURRENCIES]]
-code="RE101G1"
+code="MTLTH"
+name="MTLTH"
 issuer="GAEAAQ6GYMF6SSAWSW3MSLWB5LHYQIEGF3I3TUBJM6L3MSZYSPOMTLTH"
+desc="MTLTH represents the ownership of investment fund assets that you can purchase if you want to support its activities and have your own stake of the fund. The top 20 shareholders are members of the Fund's Board of Directors, participating in the formulation and adoption of all decisions, including the collaborative management of this asset."
 status="live"
 display_decimals=7
-is_asset_anchored=true
-anchor_asset_type="realestate"
-anchor_asset="[PRESALE] Unit 91 in Building 2 of SDG SunnyMoon (G1) located in Rawai, Phuket, Thailand"
-is_unlimited=true
-name="RE101G1"
-desc="[PRESALE] This asset represents the ownership of Unit 91 in Building 2 of SDG SunnyMoon (G1) located in Rawai, Phuket, Thailand. It is a luxurious 1-bedroom apartment with a total area of 74.7 square meters. Expect income from sale or rental, commissioning is scheduled for October 2025."
-image="https://mtlth.montelibero.org/images/building-small-logo.png"
-
-[[CURRENCIES]]
-code="AVG1"
-issuer="GAEAAQ6GYMF6SSAWSW3MSLWB5LHYQIEGF3I3TUBJM6L3MSZYSPOMTLTH"
-status="live"
-display_decimals=7
-is_asset_anchored=true
 anchor_asset_type="other"
-anchor_asset="[PRESALE] Automobile Group (G1), currently consisting of 3 automobile located in Phuket, Thailand"
 is_unlimited=true
-name="AVG1"
-desc="[PRESALE] This asset represents the ownership of Automobile Group (G1), currently consisting of 3 automobile located in Phuket, Thailand. The group is utilized for rental services, offering potential rental income. Expansion plans include growing the group to 600 automobiles."
-image="https://mtlth.montelibero.org/images/car-small-logo.png"
+image="https://mtlth.montelibero.org/stellar-images/mtlth-logo.png"
